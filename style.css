@@ -1,0 +1,23 @@
+h1{
+  color: white;
+  text-decoration:none;
+  font-size: 60px;
+  text-align: center;
+  background-color: black;
+}
+a{
+  text-decoration:none;
+}
+
+ul{
+  list-style:none;
+}
+#grid{
+  display: grid;
+  grid-template-columns: 200px 1fr;
+}
+#B_menu{
+  width:200px;
+  height:800px;
+  outline: 1px dotted red;
+}
